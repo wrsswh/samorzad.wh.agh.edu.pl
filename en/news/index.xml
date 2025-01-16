@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>News on Student Council WH AGH</title>
+    <link>http://localhost:1313/en/news/</link>
+    <description>Recent content in News on Student Council WH AGH</description>
+    <image>
+      <title>Student Council WH AGH</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Oct 2024 11:30:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Treasure Hunt 2024</title>
+      <link>http://localhost:1313/en/news/treasure-hunt-2024/</link>
+      <pubDate>Tue, 01 Oct 2024 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/en/news/treasure-hunt-2024/</guid>
+      <description>Treasure Hunt 2024 is an event designed for new students at the AGH Faculty of Humanities. During the event, students explore the faculty’s facilities and meet their future instructors.</description>
+    </item>
+    <item>
+      <title>Plant day 2024</title>
+      <link>http://localhost:1313/en/news/plant-day-2024/</link>
+      <pubDate>Thu, 25 Jul 2024 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/en/news/plant-day-2024/</guid>
+      <description>Plant Day 2024 is a pilot event offering the AGH Faculty of Humanities community the opportunity to learn about the benefits of growing plants at home.</description>
+    </item>
+    <item>
+      <title>DIY Christmas Event</title>
+      <link>http://localhost:1313/en/news/diy-christmas/</link>
+      <pubDate>Fri, 22 Dec 2023 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/en/news/diy-christmas/</guid>
+      <description>Treasure Hunt 2024 is an event designed for new students at the AGH Faculty of Humanities. During the event, students explore the faculty’s facilities and meet their future instructors.</description>
+    </item>
+  </channel>
+</rss>
