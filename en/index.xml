@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Student Council WH AGH</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://eccetom.smallhost.pl/en/</link>
     <description>Recent content on Student Council WH AGH</description>
     <image>
       <title>Student Council WH AGH</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://eccetom.smallhost.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://eccetom.smallhost.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 21 Oct 2024 11:30:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eccetom.smallhost.pl/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/en/contact/</link>
+      <link>https://eccetom.smallhost.pl/en/contact/</link>
       <pubDate>Mon, 21 Oct 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/contact/</guid>
+      <guid>https://eccetom.smallhost.pl/en/contact/</guid>
       <description>Mail wh@samorzad.agh.edu.pl
 Post address WRSS WH - Dean&amp;rsquo;s Office Faculty of Humanities
 p.509, building C-7
@@ -30,41 +30,41 @@ LinkedIn.</description>
     </item>
     <item>
       <title>Treasure Hunt 2024</title>
-      <link>http://localhost:1313/en/news/treasure-hunt-2024/</link>
+      <link>https://eccetom.smallhost.pl/en/news/treasure-hunt-2024/</link>
       <pubDate>Tue, 01 Oct 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/news/treasure-hunt-2024/</guid>
+      <guid>https://eccetom.smallhost.pl/en/news/treasure-hunt-2024/</guid>
       <description>Treasure Hunt 2024 is an event designed for new students at the AGH Faculty of Humanities. During the event, students explore the faculty’s facilities and meet their future instructors.</description>
     </item>
     <item>
       <title>About us</title>
-      <link>http://localhost:1313/en/about-us/</link>
+      <link>https://eccetom.smallhost.pl/en/about-us/</link>
       <pubDate>Thu, 25 Jul 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/about-us/</guid>
+      <guid>https://eccetom.smallhost.pl/en/about-us/</guid>
       <description>Faculty Council of the Student Council (abbreviated as WRSS WH) is part of the University Council of the Student Government of the AGH University of Science and Technology.
 We are the only organization authorized to represent the student community of the Faculty of Humanities at AGH.
 You can become a member of the student government by submitting your candidacy in the general elections organized by the Faculty Student Electoral Commission of the Faculty of Humanities.</description>
     </item>
     <item>
       <title>Collaboration</title>
-      <link>http://localhost:1313/en/collaboration/</link>
+      <link>https://eccetom.smallhost.pl/en/collaboration/</link>
       <pubDate>Thu, 25 Jul 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/collaboration/</guid>
+      <guid>https://eccetom.smallhost.pl/en/collaboration/</guid>
       <description>We Have Great Reach Our social media platforms on Instagram and Facebook are followed by the majority of students from the Faculty of Humanities, and they rely on these platforms for information about student life.
 Creativity is Our Domain Creative workshops, handmade gadgets, and events no one else would think of – that&amp;rsquo;s our specialty.
 We Are Effective No event is impossible, and no problem is too big to overcome. We are community-minded individuals who, by working together with AGH students and staff, can tackle any obstacle.</description>
     </item>
     <item>
       <title>Plant day 2024</title>
-      <link>http://localhost:1313/en/news/plant-day-2024/</link>
+      <link>https://eccetom.smallhost.pl/en/news/plant-day-2024/</link>
       <pubDate>Thu, 25 Jul 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/news/plant-day-2024/</guid>
+      <guid>https://eccetom.smallhost.pl/en/news/plant-day-2024/</guid>
       <description>Plant Day 2024 is a pilot event offering the AGH Faculty of Humanities community the opportunity to learn about the benefits of growing plants at home.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/en/projects/</link>
+      <link>https://eccetom.smallhost.pl/en/projects/</link>
       <pubDate>Thu, 25 Jul 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/projects/</guid>
+      <guid>https://eccetom.smallhost.pl/en/projects/</guid>
       <description>For business inquiries please see Collaboration.
 ↗️ University Welcome Kit
 ↗️ Boardgame night
@@ -78,9 +78,9 @@ We Are Effective No event is impossible, and no problem is too big to overcome. 
     </item>
     <item>
       <title>Sessions</title>
-      <link>http://localhost:1313/en/sessions/</link>
+      <link>https://eccetom.smallhost.pl/en/sessions/</link>
       <pubDate>Thu, 25 Jul 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/sessions/</guid>
+      <guid>https://eccetom.smallhost.pl/en/sessions/</guid>
       <description>Term 2024-2026 November 2024 The November meeting is scheduled for November 20, 2024. All sessions are being held in polish.
 Requests to participate as observers should be sent to: wh@samorzad.agh.edu.pl.
 October 2024 🔗 Ordinary meeting on October 17, 2024 - summary (available only in polish)
@@ -89,18 +89,18 @@ August 2024 🔗 Ordinary meeting on August 27, 2024 - summary (available only i
     </item>
     <item>
       <title>Support</title>
-      <link>http://localhost:1313/en/support/</link>
+      <link>https://eccetom.smallhost.pl/en/support/</link>
       <pubDate>Thu, 25 Jul 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/support/</guid>
+      <guid>https://eccetom.smallhost.pl/en/support/</guid>
       <description>We are a group of students at the Faculty of Humanities (WH) who have resolved many crises. We regularly engage in conversations with faculty, administration, and the authorities of both the Faculty and the University.
 If you need support or advice, feel free to contact the appropriate person or unit at AGH. However, if you feel uncertain or unsure of your situation, consult with WRSS.
 People Who Can Help Faculty of Humanities Student Educational Advisor (WSDD) Krzysztof Stawarz</description>
     </item>
     <item>
       <title>DIY Christmas Event</title>
-      <link>http://localhost:1313/en/news/diy-christmas/</link>
+      <link>https://eccetom.smallhost.pl/en/news/diy-christmas/</link>
       <pubDate>Fri, 22 Dec 2023 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/news/diy-christmas/</guid>
+      <guid>https://eccetom.smallhost.pl/en/news/diy-christmas/</guid>
       <description>Treasure Hunt 2024 is an event designed for new students at the AGH Faculty of Humanities. During the event, students explore the faculty’s facilities and meet their future instructors.</description>
     </item>
   </channel>
