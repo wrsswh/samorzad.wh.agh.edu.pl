@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/contact/</loc>
+    <loc>https://eccetom.smallhost.pl/en/contact/</loc>
     <lastmod>2024-10-21T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://eccetom.smallhost.pl/en/</loc>
     <lastmod>2024-10-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/"
+                href="https://eccetom.smallhost.pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://eccetom.smallhost.pl/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/news/treasure-hunt-2024/</loc>
+    <loc>https://eccetom.smallhost.pl/en/news/treasure-hunt-2024/</loc>
     <lastmod>2024-10-01T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/about-us/</loc>
+    <loc>https://eccetom.smallhost.pl/en/about-us/</loc>
     <lastmod>2024-07-25T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/collaboration/</loc>
+    <loc>https://eccetom.smallhost.pl/en/collaboration/</loc>
     <lastmod>2024-07-25T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/news/</loc>
+    <loc>https://eccetom.smallhost.pl/en/news/</loc>
     <lastmod>2024-07-25T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/news/plant-day-2024/</loc>
+    <loc>https://eccetom.smallhost.pl/en/news/plant-day-2024/</loc>
     <lastmod>2024-07-25T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/projects/</loc>
+    <loc>https://eccetom.smallhost.pl/en/projects/</loc>
     <lastmod>2024-07-25T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/sessions/</loc>
+    <loc>https://eccetom.smallhost.pl/en/sessions/</loc>
     <lastmod>2024-07-25T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/support/</loc>
+    <loc>https://eccetom.smallhost.pl/en/support/</loc>
     <lastmod>2024-07-25T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/news/diy-christmas/</loc>
+    <loc>https://eccetom.smallhost.pl/en/news/diy-christmas/</loc>
     <lastmod>2023-12-22T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://eccetom.smallhost.pl/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/categories/"
+                href="https://eccetom.smallhost.pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://eccetom.smallhost.pl/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://eccetom.smallhost.pl/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:1313/tags/"
+                href="https://eccetom.smallhost.pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://eccetom.smallhost.pl/en/tags/"
                 />
   </url>
 </urlset>
