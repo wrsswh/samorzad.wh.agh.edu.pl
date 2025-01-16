@@ -39,6 +39,9 @@
     <loc>https://eccetom.smallhost.pl/en/collaboration/</loc>
     <lastmod>2024-07-25T11:30:03+00:00</lastmod>
   </url><url>
+    <loc>https://eccetom.smallhost.pl/deklaracja-dostepnosci-wrss-wh/</loc>
+    <lastmod>2024-07-25T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://eccetom.smallhost.pl/aktualnosci/dzien-roslin-2024/</loc>
     <lastmod>2024-07-25T11:30:03+00:00</lastmod>
   </url><url>
@@ -68,6 +71,19 @@
   </url><url>
     <loc>https://eccetom.smallhost.pl/en/support/</loc>
     <lastmod>2024-07-25T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://eccetom.smallhost.pl/search/</loc>
+    <lastmod>2024-07-25T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eccetom.smallhost.pl/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://eccetom.smallhost.pl/search/"
+                />
   </url><url>
     <loc>https://eccetom.smallhost.pl/wsparcie/</loc>
     <lastmod>2024-07-25T11:30:03+00:00</lastmod>
