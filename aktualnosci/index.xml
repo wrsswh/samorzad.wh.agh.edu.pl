@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Aktualności on WRSS WH</title>
-    <link>https://eccetom.smallhost.pl/aktualnosci/</link>
+    <link>https://wrss.eccetom.smallhost.pl/aktualnosci/</link>
     <description>Recent content in Aktualności on WRSS WH</description>
     <image>
       <title>WRSS WH</title>
-      <url>https://eccetom.smallhost.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://eccetom.smallhost.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://wrss.eccetom.smallhost.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://wrss.eccetom.smallhost.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>pl</language>
     <lastBuildDate>Tue, 01 Oct 2024 11:30:03 +0000</lastBuildDate>
-    <atom:link href="https://eccetom.smallhost.pl/aktualnosci/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wrss.eccetom.smallhost.pl/aktualnosci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Treasure Hunt 2024</title>
-      <link>https://eccetom.smallhost.pl/aktualnosci/treasure-hunt-2024/</link>
+      <link>https://wrss.eccetom.smallhost.pl/aktualnosci/treasure-hunt-2024/</link>
       <pubDate>Tue, 01 Oct 2024 11:30:03 +0000</pubDate>
-      <guid>https://eccetom.smallhost.pl/aktualnosci/treasure-hunt-2024/</guid>
+      <guid>https://wrss.eccetom.smallhost.pl/aktualnosci/treasure-hunt-2024/</guid>
       <description>Treasure Hunt 2024 to wydarzenie zaprojektowane dla osób zaczynających studia na Wydziale Humanistycznym AGH. W trakcie niego studenci i studentki zwiedzają infrastrukturę wydziału i poznają swoich przyszłych dydaktyków.</description>
     </item>
     <item>
       <title>Dzień roślin 2024</title>
-      <link>https://eccetom.smallhost.pl/aktualnosci/dzien-roslin-2024/</link>
+      <link>https://wrss.eccetom.smallhost.pl/aktualnosci/dzien-roslin-2024/</link>
       <pubDate>Thu, 25 Jul 2024 11:30:03 +0000</pubDate>
-      <guid>https://eccetom.smallhost.pl/aktualnosci/dzien-roslin-2024/</guid>
+      <guid>https://wrss.eccetom.smallhost.pl/aktualnosci/dzien-roslin-2024/</guid>
       <description>Dzień Roślin 2024 to pilotażowe wydarzenie oferujące społeczności Wydziału Humanistycznego AGH możliwość zapoznania się korzyściami płynącymi z hodowli roślin w domach.</description>
     </item>
     <item>
       <title>Wieczór ozdób świątecznych 2023</title>
-      <link>https://eccetom.smallhost.pl/aktualnosci/wieczor-ozdob-2023/</link>
+      <link>https://wrss.eccetom.smallhost.pl/aktualnosci/wieczor-ozdob-2023/</link>
       <pubDate>Fri, 22 Dec 2023 11:30:03 +0000</pubDate>
-      <guid>https://eccetom.smallhost.pl/aktualnosci/wieczor-ozdob-2023/</guid>
+      <guid>https://wrss.eccetom.smallhost.pl/aktualnosci/wieczor-ozdob-2023/</guid>
       <description>The 2023 Holiday Decoration Evening was the first creative event for the student community of the Faculty of Humanities. On a December afternoon, we gathered for a collaborative creative session and made gifts and holiday cards for our loved ones.</description>
     </item>
   </channel>
